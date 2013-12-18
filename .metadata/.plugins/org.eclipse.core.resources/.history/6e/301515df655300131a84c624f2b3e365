@@ -1,0 +1,33 @@
+/**
+ * 
+ */
+
+/**
+ * @author N.H.
+ *
+ */
+public class event {
+
+	/**
+	 * What's needed: 
+	 *eventID (int)
+	 *title (text)
+	 *category (text |from category object/xml list/ what?)
+	 *date, time (datetime)
+	 *link to event-related image file (text/hyperlink)
+	 *description of event (long text)
+	 *venue information (from venue object)
+	 		name
+	 		address
+	 		google maps link
+	 		homepage
+	 *organizer information (from organizer object)
+	 		name
+	 		homepage
+	 *link to event homepage (text/hyperlink)
+	 */
+
+	
+	
+
+}

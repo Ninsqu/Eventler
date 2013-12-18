@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1385115651293_0" label="LearningStuff" name="LearningStuff">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestDemo1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TestDemo2" type="4"/>
+</workingSet>
+<mruList name="LearningStuff"/>
+</workingSetManager>

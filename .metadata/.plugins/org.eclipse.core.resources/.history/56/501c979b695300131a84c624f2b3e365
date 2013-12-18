@@ -1,0 +1,8 @@
+
+public class Organizer {
+
+	public int organizerId;
+	public String organizerName;
+	public String contactDetails;
+	public String organizerHome;
+}

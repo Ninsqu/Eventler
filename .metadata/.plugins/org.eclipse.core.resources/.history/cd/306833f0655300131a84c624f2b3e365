@@ -1,0 +1,23 @@
+import java.util.Date;
+
+/**
+ * 
+ */
+
+/**
+ * @author N.H.
+ *
+ */
+public class event {
+
+public int eventId;
+public String title;
+public String dateTime;
+public String eventImageLnk;
+public String description;
+public String eventHome;
+	
+	
+	
+
+}

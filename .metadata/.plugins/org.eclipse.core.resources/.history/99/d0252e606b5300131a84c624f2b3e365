@@ -1,0 +1,95 @@
+
+
+/**
+ * 
+ */
+
+/**
+ * @author N.H.
+ *
+ */
+public class Event {
+
+public int eventId;
+public String eventTitle;
+public String dateTime;
+public String eventImageLnk;
+public String description;
+public String eventHome;
+/**
+ * @return the eventId
+ */
+public int getEventId() {
+	return eventId;
+}
+/**
+ * @param eventId the eventId to set
+ */
+public void setEventId(int eventId) {
+	this.eventId = eventId;
+}
+/**
+ * @return the eventTitle
+ */
+public String getEventTitle() {
+	return eventTitle;
+}
+/**
+ * @param eventTitle the eventTitle to set
+ */
+public void setEventTitle(String eventTitle) {
+	this.eventTitle = eventTitle;
+}
+/**
+ * @return the dateTime
+ */
+public String getDateTime() {
+	return dateTime;
+}
+/**
+ * @param dateTime the dateTime to set
+ */
+public void setDateTime(String dateTime) {
+	this.dateTime = dateTime;
+}
+/**
+ * @return the eventImageLnk
+ */
+public String getEventImageLnk() {
+	return eventImageLnk;
+}
+/**
+ * @param eventImageLnk the eventImageLnk to set
+ */
+public void setEventImageLnk(String eventImageLnk) {
+	this.eventImageLnk = eventImageLnk;
+}
+/**
+ * @return the description
+ */
+public String getDescription() {
+	return description;
+}
+/**
+ * @param description the description to set
+ */
+public void setDescription(String description) {
+	this.description = description;
+}
+/**
+ * @return the eventHome
+ */
+public String getEventHome() {
+	return eventHome;
+}
+/**
+ * @param eventHome the eventHome to set
+ */
+public void setEventHome(String eventHome) {
+	this.eventHome = eventHome;
+}
+	
+	
+	
+
+}

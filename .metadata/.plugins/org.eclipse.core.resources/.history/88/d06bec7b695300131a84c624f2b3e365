@@ -1,0 +1,23 @@
+
+
+/**
+ * 
+ */
+
+/**
+ * @author N.H.
+ *
+ */
+public class Event {
+
+public int eventId;
+public String eventTitle;
+public String dateTime;
+public String eventImageLnk;
+public String description;
+public String eventHome;
+	
+	
+	
+
+}

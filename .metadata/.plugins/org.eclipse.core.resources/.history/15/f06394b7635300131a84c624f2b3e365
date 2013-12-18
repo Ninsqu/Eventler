@@ -1,0 +1,86 @@
+/**
+ * 
+ */
+
+/**
+ * @author N.H
+ *
+ */
+public class venue {
+
+	/*
+	 * venue id
+	 * name
+	 * address
+	 * Google maps link
+	 * homepage
+	 */
+	
+	public int venueId;
+	public String name;
+	public String address;
+	public String gMapLink;
+	public String venueHome;
+	/**
+	 * @return the venueId
+	 */
+	public int getVenueId() {
+		return venueId;
+	}
+	/**
+	 * @param venueId the venueId to set
+	 */
+	public void setVenueId(int venueId) {
+		this.venueId = venueId;
+	}
+	/**
+	 * @return the name
+	 */
+	public String getName() {
+		return name;
+	}
+	/**
+	 * @param name the name to set
+	 */
+	public void setName(String name) {
+		this.name = name;
+	}
+	/**
+	 * @return the address
+	 */
+	public String getAddress() {
+		return address;
+	}
+	/**
+	 * @param address the address to set
+	 */
+	public void setAddress(String address) {
+		this.address = address;
+	}
+	/**
+	 * @return the gMapLink
+	 */
+	public String getgMapLink() {
+		return gMapLink;
+	}
+	/**
+	 * @param gMapLink the gMapLink to set
+	 */
+	public void setgMapLink(String gMapLink) {
+		this.gMapLink = gMapLink;
+	}
+	/**
+	 * @return the venueHome
+	 */
+	public String getVenueHome() {
+		return venueHome;
+	}
+	/**
+	 * @param venueHome the venueHome to set
+	 */
+	public void setVenueHome(String venueHome) {
+		this.venueHome = venueHome;
+	}
+	
+	
+}

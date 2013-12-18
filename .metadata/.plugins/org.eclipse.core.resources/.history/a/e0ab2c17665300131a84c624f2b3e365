@@ -1,0 +1,97 @@
+/**
+ * 
+ */
+
+/**
+ * @author N.H
+ * 'Eventler' project demo
+ *	22.11.2013
+ */
+public class venue implements Ivenue {
+
+	/*
+	 * venue id
+	 * name
+	 * address
+	 * Google maps link
+	 * homepage
+	 */
+	
+	public int venueId;
+	public String name;
+	public String address;
+	public String gMapLink;
+	public String venueHome;
+	/* (non-Javadoc)
+	 * @see Ivenue#getVenueId()
+	 */
+	@Override
+	public int getVenueId() {
+		return venueId;
+	}
+	/* (non-Javadoc)
+	 * @see Ivenue#setVenueId(int)
+	 */
+	@Override
+	public void setVenueId(int venueId) {
+		this.venueId = venueId;
+	}
+	/* (non-Javadoc)
+	 * @see Ivenue#getName()
+	 */
+	@Override
+	public String getName() {
+		return name;
+	}
+	/* (non-Javadoc)
+	 * @see Ivenue#setName(java.lang.String)
+	 */
+	@Override
+	public void setName(String name) {
+		this.name = name;
+	}
+	/* (non-Javadoc)
+	 * @see Ivenue#getAddress()
+	 */
+	@Override
+	public String getAddress() {
+		return address;
+	}
+	/* (non-Javadoc)
+	 * @see Ivenue#setAddress(java.lang.String)
+	 */
+	@Override
+	public void setAddress(String address) {
+		this.address = address;
+	}
+	/* (non-Javadoc)
+	 * @see Ivenue#getgMapLink()
+	 */
+	@Override
+	public String getgMapLink() {
+		return gMapLink;
+	}
+	/* (non-Javadoc)
+	 * @see Ivenue#setgMapLink(java.lang.String)
+	 */
+	@Override
+	public void setgMapLink(String gMapLink) {
+		this.gMapLink = gMapLink;
+	}
+	/* (non-Javadoc)
+	 * @see Ivenue#getVenueHome()
+	 */
+	@Override
+	public String getVenueHome() {
+		return venueHome;
+	}
+	/* (non-Javadoc)
+	 * @see Ivenue#setVenueHome(java.lang.String)
+	 */
+	@Override
+	public void setVenueHome(String venueHome) {
+		this.venueHome = venueHome;
+	}
+	
+	
+}
